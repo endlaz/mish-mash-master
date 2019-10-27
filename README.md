@@ -8,21 +8,6 @@ First run `npm install` to install the dependencies. Run the tests with the comm
 
 You can also run the tests for each assignment individually by executing `npm run test1`, `npm run test2` and `npm run test3`.
 
-If you want to play around with your code yourself (not using the provided tests), here's a tip. Instead of adding test code to your solution files, create a new `.js` file and run it with `node`.
-
-_Note: we'll use the results of this homework assignment for a formal evaluation and as such you should write the code individually. **Plagiarism is a violation of the Academy contract and is not in your best interest. Do not discuss the contents of the assignment with your fellow students.**_
-
-## How to submit your results
-
-**Send your homework to teachers@codaisseur.com before Saturday 22:00**
-
-Clean up your code:
-
-- Fix the formatting/indentation
-- Remove unnecessary code.
-
-The app should be runnable simply by cloning the repository, installing dependencies, and running `npm test`.
-
 ## Instructions
 
 ### Assignment 1: ShoppingCart
